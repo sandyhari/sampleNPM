@@ -1,0 +1,22 @@
+{
+  "name": "autobot",
+  "version": "1.0.0",
+  "description": "addition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandyhari/sampleNPM.git"
+  },
+  "keywords": [
+    "arithematic"
+  ],
+  "author": "hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandyhari/sampleNPM/issues"
+  },
+  "homepage": "https://github.com/sandyhari/sampleNPM#readme"
+}
