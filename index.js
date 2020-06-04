@@ -1,6 +1,7 @@
 
-function autobot(inp,out){
-  return inp+out;
+function maxbot(){
+  var myVar = "package manager";
+  return myVar.toUpperCase();
 }
 
-module.exports = autobot;
+module.exports = maxbot;
